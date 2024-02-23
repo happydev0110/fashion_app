@@ -1,4 +1,4 @@
-# Flutter E-commerce Fashion 🛍
+# Flutter Fashion APP Fashion 🛍
 - Figma based on this project and improving it more and more,.... 
 - I'm updating the functionality for it!
 
